@@ -1,0 +1,37 @@
+body
+{
+	text-align: center;
+	background-color:cadetblue;
+	color:white;
+}
+span
+{
+	font-size: 20px;
+}
+canvas
+{
+	background: grey;
+	border-radius: 20px;
+	border-width:5px;
+	border-style:dashed;
+	border-color:white;
+}
+h2{
+	background-color:grey;
+	width:600px;
+	border-radius:15px;
+	padding-top:35px;
+	padding-bottom:15px;
+}
+
+label{
+	font-size:25px;
+}
+
+#note{
+	font-size:20px;
+}
+
+.btn{
+	background-color:grey;
+}
